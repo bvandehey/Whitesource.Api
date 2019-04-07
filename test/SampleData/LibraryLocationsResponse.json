@@ -1,0 +1,2033 @@
+{
+  "libraryLocations": [
+    {
+      "name": "Antlr3.Runtime-3.5.0.2.dll",
+      "keyId": 68200509,
+      "keyUuid": "76c9c8aa-b94b-45c7-a1de-5871807c0bde",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "AsyncIO-0.1.17.0.dll",
+      "keyId": 69805705,
+      "keyUuid": "fb0e47ed-4c38-45f2-b2b2-ece28175683b",
+      "locations": [
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" }
+      ]
+    },
+    {
+      "name": "AutoMapper-2.1.267.0.dll",
+      "keyId": 68127116,
+      "keyUuid": "ab5091f3-5829-4852-9242-9411033367f3",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "bootstrap-3.3.7-3.3.13.js",
+      "keyId": 28688634,
+      "keyUuid": "47878289-eae6-457c-9ed2-1a72f2560f38",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "Castle.Core-2.5.2.0.dll",
+      "keyId": 68081334,
+      "keyUuid": "0a0c265c-f079-49d7-99f0-88393694b22d",
+      "locations": [
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" }
+      ]
+    },
+    {
+      "name": "Common.Logging-3.3.1.0.dll",
+      "keyId": 69039217,
+      "keyUuid": "79eaa87d-bed9-4e74-8e75-45841163b507",
+      "locations": [
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" }
+      ]
+    },
+    {
+      "name": "Common.Logging.Core-3.3.1.0.dll",
+      "keyId": 69039218,
+      "keyUuid": "f97753af-56ee-4365-a406-3591676a25f9",
+      "locations": [
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" }
+      ]
+    },
+    {
+      "name": "Common.Logging.Log4Net1213-3.3.1.0.dll",
+      "keyId": 74198253,
+      "keyUuid": "a8d80523-769d-411a-a957-579d5efd3b4d",
+      "locations": [
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" }
+      ]
+    },
+    {
+      "name": "Dapper-1.40.0.0.dll",
+      "keyId": 72098044,
+      "keyUuid": "bb2851b2-d266-471f-bf8a-3df38af8357c",
+      "locations": [
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" }
+      ]
+    },
+    {
+      "name": "EntityFramework-6.1.40302.0.dll",
+      "keyId": 69046023,
+      "keyUuid": "04bdd637-2ebc-403e-93ed-31964a52c7ef",
+      "locations": [
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" }
+      ]
+    },
+    {
+      "name": "EntityFramework.SqlServer-6.1.40302.0.dll",
+      "keyId": 69039001,
+      "keyUuid": "59682120-0ebd-4416-8e39-4b3b6b295536",
+      "locations": [
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" }
+      ]
+    },
+    {
+      "name": "FluentMigrator-1.4.0.0.dll",
+      "keyId": 74200180,
+      "keyUuid": "744c28df-5bac-4f71-8957-37c92b1bd063",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "GraphQL-2.0.0.0.dll",
+      "keyId": 76864476,
+      "keyUuid": "fd2e73ff-4e21-4689-9d9f-470c6fe3c709",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "GraphQL-Parser-3.0.0.dll",
+      "keyId": 72312759,
+      "keyUuid": "2522ec0a-4a00-4494-9f3e-fb8c23b13fda",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "Iesi.Collections-2.1.2.4000.dll",
+      "keyId": 68142230,
+      "keyUuid": "07e35afa-0561-48f3-9e29-17542809c371",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "jquery-2.2.0.js",
+      "keyId": 28742076,
+      "keyUuid": "412eaf17-9a75-4da5-afcb-41bb04d4a3da",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "jquery.validate-1.14.0.js",
+      "keyId": 28756567,
+      "keyUuid": "bca02926-0a74-4559-ada8-f71ba087e5c0",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "jquery.validate.unobtrusive-3.2.6.js",
+      "keyId": 63963311,
+      "keyUuid": "5f23b681-2ce0-4ace-a827-70d59fd0d746",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "libuv-1.0.0-alpha.dll",
+      "keyId": 25185777,
+      "keyUuid": "7d58abc1-5246-4111-9129-01296b92e341",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "LightInject-4.0.1.dll",
+      "keyId": 75217095,
+      "keyUuid": "d27e21c6-c5de-45ae-a9cc-6e92166cf7bf",
+      "locations": [
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" }
+      ]
+    },
+    {
+      "name": "LightInject-4.0.1.dll",
+      "keyId": 75471739,
+      "keyUuid": "ded5d47f-f325-46de-95aa-f63f2e012b16",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "LightInject.Mvc-1.0.0.4.dll",
+      "keyId": 72729470,
+      "keyUuid": "151ced56-a29b-4d91-9d7f-83c6252dd273",
+      "locations": [
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" }
+      ]
+    },
+    {
+      "name": "LightInject.Web-1.0.0.7.dll",
+      "keyId": 72916390,
+      "keyUuid": "d8582326-5ff1-4264-84a5-d38e14b9ba6f",
+      "locations": [
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" }
+      ]
+    },
+    {
+      "name": "LightInject.WebApi-1.0.0.4.dll",
+      "keyId": 74146103,
+      "keyUuid": "4ebabfde-b29e-46ff-b765-b0a7be4941e8",
+      "locations": [
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" }
+      ]
+    },
+    {
+      "name": "log4net-1.2.13.0.dll",
+      "keyId": 69038299,
+      "keyUuid": "a37cedf9-4f09-4dd4-8157-8041d096e6a0",
+      "locations": [
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" }
+      ]
+    },
+    {
+      "name": "Microsoft.AspNetCore-2.0.1.17303.dll",
+      "keyId": 71401167,
+      "keyUuid": "cfc19a97-9336-4e91-9efc-c14e3dd5ff6a",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "Microsoft.AspNetCore.Antiforgery-2.0.1.17303.dll",
+      "keyId": 71404138,
+      "keyUuid": "b9f6db4e-26c2-49f3-8c84-0ca13766517d",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "Microsoft.AspNetCore.Authentication.Abstractions-2.0.1.17303.dll",
+      "keyId": 70111207,
+      "keyUuid": "52303803-c6ab-4d55-9675-7bd06ff5ded7",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "Microsoft.AspNetCore.Authentication.Core-2.0.1.17303.dll",
+      "keyId": 70111210,
+      "keyUuid": "09fe167a-5350-45b0-be5f-617cf96e5091",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "Microsoft.AspNetCore.Authorization-2.0.1.17303.dll",
+      "keyId": 70111216,
+      "keyUuid": "13ff968c-a9f1-429d-9213-e6a48f2aff1d",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "Microsoft.AspNetCore.Authorization.Policy-2.0.1.17303.dll",
+      "keyId": 70111219,
+      "keyUuid": "4d515bba-c49e-4023-9c8d-577c4f83eee1",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "Microsoft.AspNetCore.Cors-2.0.1.17303.dll",
+      "keyId": 71401342,
+      "keyUuid": "c4bdb902-a9af-4f76-8440-6930abb5cbce",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "Microsoft.AspNetCore.Cryptography.Internal-2.0.1.17303.dll",
+      "keyId": 71401919,
+      "keyUuid": "43c48e20-87bc-4dd5-a652-aca43c1c5384",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "Microsoft.AspNetCore.DataProtection-2.0.1.17303.dll",
+      "keyId": 71401918,
+      "keyUuid": "0eb9c87b-7194-47ca-a9fa-7503a9180a56",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "Microsoft.AspNetCore.DataProtection.Abstractions-2.0.1.17303.dll",
+      "keyId": 71401915,
+      "keyUuid": "c525138c-709b-42bf-be4c-eeda6e02a5c9",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "Microsoft.AspNetCore.Diagnostics-2.0.1.17303.dll",
+      "keyId": 69101881,
+      "keyUuid": "66a1d8e5-133a-4325-a821-513e2cf2f6b6",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "Microsoft.AspNetCore.Diagnostics.Abstractions-2.0.1.17303.dll",
+      "keyId": 69101889,
+      "keyUuid": "1be726ff-aefc-4f1b-a3e8-91344f1b41c9",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "Microsoft.AspNetCore.Hosting-2.0.1.17303.dll",
+      "keyId": 69101901,
+      "keyUuid": "c5a0bea2-e280-4fc3-ac9e-c5087118603c",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "Microsoft.AspNetCore.Hosting.Abstractions-2.0.1.17303.dll",
+      "keyId": 69097501,
+      "keyUuid": "11291036-1e30-465a-94b8-b375fe4fa7fc",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "Microsoft.AspNetCore.Hosting.Server.Abstractions-2.0.1.17303.dll",
+      "keyId": 69097502,
+      "keyUuid": "55045d95-d146-41ab-80a7-8a6572ffb8f1",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "Microsoft.AspNetCore.Hosting.WindowsServices-2.0.1.17303.dll",
+      "keyId": 74280926,
+      "keyUuid": "29160b68-a9be-4280-8e4b-3abbf497e54f",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "Microsoft.AspNetCore.Html.Abstractions-2.0.0.17205.dll",
+      "keyId": 71397131,
+      "keyUuid": "c62a6e4f-7bd7-49b1-a031-6385895212b2",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "Microsoft.AspNetCore.Http-2.0.1.17303.dll",
+      "keyId": 70056728,
+      "keyUuid": "ee0b91d7-5d08-4f00-bba8-9967309cf251",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "Microsoft.AspNetCore.Http.Abstractions-2.0.1.17303.dll",
+      "keyId": 69096178,
+      "keyUuid": "e11b0940-664a-4ecf-af6d-a3838cc8d630",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "Microsoft.AspNetCore.Http.Extensions-2.0.1.17303.dll",
+      "keyId": 69099667,
+      "keyUuid": "206d992c-c181-48e1-b6aa-c0e90768d001",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "Microsoft.AspNetCore.Http.Features-2.0.1.17303.dll",
+      "keyId": 69096179,
+      "keyUuid": "39c204f3-d37e-4f45-b8bb-1dd03cea7aa2",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "Microsoft.AspNetCore.HttpOverrides-2.0.1.17303.dll",
+      "keyId": 71401148,
+      "keyUuid": "b64c04b8-6edb-4511-af3f-9432447fcdc7",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "Microsoft.AspNetCore.JsonPatch-2.0.0.17205.dll",
+      "keyId": 70109513,
+      "keyUuid": "9c925ca5-d629-48d7-8afe-75eae616104d",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "Microsoft.AspNetCore.Localization-2.0.1.17303.dll",
+      "keyId": 71404139,
+      "keyUuid": "7b5c8763-e892-4052-9d40-f1ea9bc9549e",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "Microsoft.AspNetCore.Mvc-2.0.2.17355.dll",
+      "keyId": 69066963,
+      "keyUuid": "3f725d9a-ced5-4d6d-8a71-be086cf2342c",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "Microsoft.AspNetCore.Mvc.Abstractions-2.0.2.17355.dll",
+      "keyId": 69064815,
+      "keyUuid": "e4e2ff32-d654-4a6e-922f-48068781bbad",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "Microsoft.AspNetCore.Mvc.ApiExplorer-2.0.2.17355.dll",
+      "keyId": 69066965,
+      "keyUuid": "0ded41a1-2964-4f9e-98d6-74b80279c4e5",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "Microsoft.AspNetCore.Mvc.Core-2.0.2.17355.dll",
+      "keyId": 69064816,
+      "keyUuid": "ce5ad73a-3d01-40d5-a31e-b654202d0d3a",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "Microsoft.AspNetCore.Mvc.Cors-2.0.2.17355.dll",
+      "keyId": 69066962,
+      "keyUuid": "5b1469f8-1978-46b8-8cbb-9bcc3b697915",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "Microsoft.AspNetCore.Mvc.DataAnnotations-2.0.2.17355.dll",
+      "keyId": 69066973,
+      "keyUuid": "d35531fc-b30f-461f-b553-9b6060548578",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "Microsoft.AspNetCore.Mvc.Formatters.Json-2.0.2.17355.dll",
+      "keyId": 69066072,
+      "keyUuid": "e5eaa5a2-d7c9-4826-bd63-27fbdf1c4f98",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "Microsoft.AspNetCore.Mvc.Localization-2.0.2.17355.dll",
+      "keyId": 69066968,
+      "keyUuid": "d9c01d67-6a91-47fc-a288-bbcb47994cb6",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "Microsoft.AspNetCore.Mvc.Razor-2.0.2.17355.dll",
+      "keyId": 69066969,
+      "keyUuid": "62dcddba-b20e-49fc-b609-e4b3fe078fa6",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "Microsoft.AspNetCore.Mvc.Razor.Extensions-2.0.1.17303.dll",
+      "keyId": 74609350,
+      "keyUuid": "d21d7f52-0272-46e0-84c3-7e004afed93a",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "Microsoft.AspNetCore.Mvc.RazorPages-2.0.2.17355.dll",
+      "keyId": 69066970,
+      "keyUuid": "244694ad-09f1-4ee3-ad4b-f50846474b92",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "Microsoft.AspNetCore.Mvc.TagHelpers-2.0.2.17355.dll",
+      "keyId": 69066967,
+      "keyUuid": "e06adf6d-929a-48cc-a02e-b849e09523ed",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "Microsoft.AspNetCore.Mvc.ViewFeatures-2.0.2.17355.dll",
+      "keyId": 69066972,
+      "keyUuid": "8c9f3940-e636-4b36-8d2a-81b63d717946",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "Microsoft.AspNetCore.Razor-2.0.1.17303.dll",
+      "keyId": 69049927,
+      "keyUuid": "47331cb5-b10b-463d-b546-bfe99faf5dfb",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "Microsoft.AspNetCore.Razor.Language-2.0.1.17303.dll",
+      "keyId": 69049921,
+      "keyUuid": "e1ccd4c0-3f21-4b8e-bce5-e2ff47287c7e",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "Microsoft.AspNetCore.Razor.Runtime-2.0.1.17303.dll",
+      "keyId": 71404136,
+      "keyUuid": "78e02c42-7a78-41df-a438-c9def02a5a01",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "Microsoft.AspNetCore.ResponseCaching.Abstractions-2.0.1.17303.dll",
+      "keyId": 70111204,
+      "keyUuid": "6f354a48-7bfa-46f1-8187-ff7c14b9e82d",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "Microsoft.AspNetCore.Routing-2.0.1.17303.dll",
+      "keyId": 70111206,
+      "keyUuid": "08c70c4e-eea5-438f-9e8f-cea905fdcf9f",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "Microsoft.AspNetCore.Routing.Abstractions-2.0.1.17303.dll",
+      "keyId": 70111218,
+      "keyUuid": "d5b9c8ff-12a9-4862-bdd7-9fd72051b097",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "Microsoft.AspNetCore.Server.HttpSys-2.0.2.17308.dll",
+      "keyId": 74280925,
+      "keyUuid": "19cb790f-ea6d-4d82-81be-810e274dd54f",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "Microsoft.AspNetCore.Server.IISIntegration-2.0.1.17303.dll",
+      "keyId": 71401159,
+      "keyUuid": "e20132db-3b44-4e82-9410-5122dc7452d7",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "Microsoft.AspNetCore.Server.Kestrel-2.0.1.17303.dll",
+      "keyId": 69101896,
+      "keyUuid": "7702f0be-b5c8-4154-9077-dd071e1dba6f",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "Microsoft.AspNetCore.Server.Kestrel.Core-2.0.1.17303.dll",
+      "keyId": 69101885,
+      "keyUuid": "67c6b9e8-c0d5-4f75-a881-305ada506d30",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "Microsoft.AspNetCore.Server.Kestrel.Https-2.0.1.17303.dll",
+      "keyId": 71401153,
+      "keyUuid": "aceeeeb8-a9bf-4d5d-a9ed-712f2b62fc70",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions-2.0.1.17303.dll",
+      "keyId": 69101883,
+      "keyUuid": "f9967651-1986-4ee9-ae0e-20a1ad780c26",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "Microsoft.AspNetCore.Server.Kestrel.Transport.Libuv-2.0.1.17303.dll",
+      "keyId": 69101884,
+      "keyUuid": "91f8dca9-1e33-4476-82d5-834d9140707f",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "Microsoft.AspNetCore.StaticFiles-2.0.1.17303.dll",
+      "keyId": 71402649,
+      "keyUuid": "f98c683f-20b8-48fd-8cd4-633fdfa334c1",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "Microsoft.AspNetCore.WebUtilities-2.0.1.17303.dll",
+      "keyId": 70056736,
+      "keyUuid": "2df53f2b-4cb1-42c6-8f73-2b427b81570f",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "Microsoft.CodeAnalysis-2.3.1.61919.dll",
+      "keyId": 69061627,
+      "keyUuid": "53439eb0-2c5a-4f4c-92f6-e6fe30f9f090",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "Microsoft.CodeAnalysis.CSharp-2.3.1.61919.dll",
+      "keyId": 69061623,
+      "keyUuid": "31370e65-f66d-42fe-a2c6-fecd5eed9753",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "Microsoft.CodeAnalysis.Razor-2.0.1.17303.dll",
+      "keyId": 74280927,
+      "keyUuid": "81b7d2ee-ee71-4699-8930-f292ac3b9703",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "Microsoft.CSharp-4.6.1590.0.dll",
+      "keyId": 71385634,
+      "keyUuid": "3bc4d547-44ce-482e-b260-5db0ea048459",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "Microsoft.DotNet.PlatformAbstractions-2.0.3.dll",
+      "keyId": 69058515,
+      "keyUuid": "042f21e2-15c8-434f-a560-8c91bf92796c",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "Microsoft.EntityFrameworkCore-2.0.1.17303.dll",
+      "keyId": 71400863,
+      "keyUuid": "bc890ac4-a83d-457b-8d88-3afba97c8cbf",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "Microsoft.EntityFrameworkCore.Relational-2.0.1.17303.dll",
+      "keyId": 71400861,
+      "keyUuid": "15b8d240-d784-4100-94fd-fd91d45cb8d8",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "Microsoft.EntityFrameworkCore.SqlServer-2.0.1.17303.dll",
+      "keyId": 70069432,
+      "keyUuid": "29b5a596-ef74-48e4-9c0d-631e287c1d33",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "Microsoft.Extensions.Caching.Abstractions-2.0.0.17205.dll",
+      "keyId": 70056738,
+      "keyUuid": "8cfbe3cd-4d47-4c9b-8267-3e97f67d6ea3",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "Microsoft.Extensions.Caching.Memory-2.0.0.17205.dll",
+      "keyId": 70056734,
+      "keyUuid": "564dcd0a-309c-4d34-b452-4e1d226ea628",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "Microsoft.Extensions.Configuration-2.0.0.17205.dll",
+      "keyId": 70056719,
+      "keyUuid": "d41d44c5-8d72-4672-8b93-906e33f73dc9",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "Microsoft.Extensions.Configuration.Abstractions-2.0.0.17205.dll",
+      "keyId": 70056708,
+      "keyUuid": "cdcb3440-7de5-49f3-ba99-b59ccf6774ff",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "Microsoft.Extensions.Configuration.Binder-2.0.0.17205.dll",
+      "keyId": 70056707,
+      "keyUuid": "cf562f0b-a49b-4f8a-b368-8cbaec4cdcb2",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "Microsoft.Extensions.Configuration.CommandLine-2.0.0.17205.dll",
+      "keyId": 70056725,
+      "keyUuid": "52260a29-b817-4e4e-b62c-7189212c91c7",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "Microsoft.Extensions.Configuration.EnvironmentVariables-2.0.0.17205.dll",
+      "keyId": 69072741,
+      "keyUuid": "be0e66bc-b593-4032-81af-42131043d28f",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "Microsoft.Extensions.Configuration.FileExtensions-2.0.0.17205.dll",
+      "keyId": 69099075,
+      "keyUuid": "dc770037-6627-408a-a727-de1232d3f352",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "Microsoft.Extensions.Configuration.Json-2.0.0.17205.dll",
+      "keyId": 69048707,
+      "keyUuid": "5c22d959-d19a-4284-ae18-98e91f880f5d",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "Microsoft.Extensions.Configuration.UserSecrets-2.0.0.17205.dll",
+      "keyId": 70056721,
+      "keyUuid": "26a3db53-fda8-46b2-bfe5-69535af39eec",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "Microsoft.Extensions.DependencyInjection-2.0.0.17205.dll",
+      "keyId": 70055975,
+      "keyUuid": "e2b7aa51-5c37-4f73-a339-e5033a8c1746",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "Microsoft.Extensions.DependencyInjection.Abstractions-2.0.0.17205.dll",
+      "keyId": 69039311,
+      "keyUuid": "88d230b9-6531-43e1-b6fe-eb991ec8cab4",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "Microsoft.Extensions.DependencyModel-2.0.3.dll",
+      "keyId": 69058514,
+      "keyUuid": "7bb03bed-626f-4207-abeb-da70a9382d10",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "Microsoft.Extensions.FileProviders.Abstractions-2.0.0.17205.dll",
+      "keyId": 69048714,
+      "keyUuid": "25df2dfe-0da8-41e1-9e9b-97bcfe3f3859",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "Microsoft.Extensions.FileProviders.Composite-2.0.0.17205.dll",
+      "keyId": 71401337,
+      "keyUuid": "d63d3b2c-c08c-48d4-bfd7-1c30c085818a",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "Microsoft.Extensions.FileProviders.Physical-2.0.0.17205.dll",
+      "keyId": 69095454,
+      "keyUuid": "96c0491c-168b-4e9a-b045-f231cb677265",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "Microsoft.Extensions.FileSystemGlobbing-2.0.0.17205.dll",
+      "keyId": 70056712,
+      "keyUuid": "8c1a1ee3-d71f-45e6-bf2b-24f475f610ed",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "Microsoft.Extensions.Hosting.Abstractions-2.0.1.17303.dll",
+      "keyId": 70056733,
+      "keyUuid": "bef3bd28-264d-41e6-b82b-5afcef81a5ac",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "Microsoft.Extensions.Localization-2.0.1.17303.dll",
+      "keyId": 71404135,
+      "keyUuid": "385b1db5-4bf5-4e78-ac84-91d4b4a5d5dd",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "Microsoft.Extensions.Localization.Abstractions-2.0.1.17303.dll",
+      "keyId": 71404137,
+      "keyUuid": "6b1d928c-f557-441c-8bae-e9b7cb7bf0f5",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "Microsoft.Extensions.Logging-2.0.0.17205.dll",
+      "keyId": 70056730,
+      "keyUuid": "6901df16-90b3-4083-ba91-653b55c3af54",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "Microsoft.Extensions.Logging.Abstractions-2.0.0.17205.dll",
+      "keyId": 69038068,
+      "keyUuid": "84415008-a73a-4895-a0ed-9c1e289246e6",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "Microsoft.Extensions.Logging.Configuration-2.0.0.17205.dll",
+      "keyId": 69048712,
+      "keyUuid": "a07bf3e4-a3c7-40d5-b93c-45f58371aa81",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "Microsoft.Extensions.Logging.Console-2.0.0.17205.dll",
+      "keyId": 70056718,
+      "keyUuid": "52c6b023-24f1-49aa-9ec5-57c045580f67",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "Microsoft.Extensions.Logging.Debug-2.0.0.17205.dll",
+      "keyId": 69048710,
+      "keyUuid": "f62578a1-db9b-47d7-9813-960b372fe280",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "Microsoft.Extensions.ObjectPool-2.0.0.17205.dll",
+      "keyId": 69095456,
+      "keyUuid": "f4d40dc5-52bc-439a-876d-a7e5519944e0",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "Microsoft.Extensions.Options-2.0.0.17205.dll",
+      "keyId": 69096180,
+      "keyUuid": "67607787-51a9-4671-8068-c5b2dd3ee9b3",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "Microsoft.Extensions.Options.ConfigurationExtensions-2.0.0.17205.dll",
+      "keyId": 70056720,
+      "keyUuid": "5c815581-2934-48d4-adc1-d64d25baaea0",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "Microsoft.Extensions.Primitives-2.0.0.17205.dll",
+      "keyId": 69095458,
+      "keyUuid": "c548cd73-9697-4caa-9aee-8ef7739ded45",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "Microsoft.Extensions.WebEncoders-2.0.0.17205.dll",
+      "keyId": 70077684,
+      "keyUuid": "b10b0946-9bbf-4588-b494-f2f6ba75515e",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "Microsoft.Net.Http.Headers-2.0.1.17303.dll",
+      "keyId": 70056724,
+      "keyUuid": "f1c3747d-cc7c-4f38-b0c3-32e5a65a4de5",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "Microsoft.NET.Sdk.Razor.Tasks-2.2.0.18316.dll",
+      "keyId": 73403413,
+      "keyUuid": "3d739cf2-1837-4baf-96a5-c49487abd104",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "Microsoft.NET.Sdk.Razor.Tasks-2.2.0.18316.dll",
+      "keyId": 73403415,
+      "keyUuid": "2ede3fb8-9916-40af-a6ed-a94da2d92e5a",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "Microsoft.Owin-3.0.40213.64.dll",
+      "keyId": 69037394,
+      "keyUuid": "7221c8cf-4596-4f5a-97b2-ddaea06c1c81",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "Microsoft.VisualStudio.Web.BrowserLink-2.0.1.17303.dll",
+      "keyId": 70069404,
+      "keyUuid": "7fd4331e-ce88-4d5a-b5a5-0290a1ff6ed7",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "Microsoft.Web.Infrastructure-1.0.20105.407.dll",
+      "keyId": 68081455,
+      "keyUuid": "7a47dfd1-07e2-41b9-9a50-b29d0988fe9f",
+      "locations": [
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" }
+      ]
+    },
+    {
+      "name": "Microsoft.Win32.Primitives-4.6.25714.01.dll",
+      "keyId": 70460158,
+      "keyUuid": "db3afa93-59d9-48d1-9fa9-136e831af7fa",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "Microsoft.Win32.Registry-4.6.25519.03.dll",
+      "keyId": 71387889,
+      "keyUuid": "b537f159-c0ab-45c7-be99-d2704792f7d0",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "Microsoft.Win32.Registry-4.6.25519.03.dll",
+      "keyId": 71395757,
+      "keyUuid": "3d09297f-a51a-4749-b648-b5383f53a6f2",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "mscorlib-4.6.1590.0 built by: NETFXREL2.dll",
+      "keyId": 69154953,
+      "keyUuid": "c7909c24-68ba-4ebe-9583-04e3855b5f47",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "netfx.force.conflicts-4.6.26011.01.dll",
+      "keyId": 71385639,
+      "keyUuid": "45f4f7ca-4c03-4fd9-8773-a9f7e0181bd3",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "NetMQ-3.3.2.1.dll",
+      "keyId": 72624759,
+      "keyUuid": "e5e2116c-7894-4f41-a385-d5ebd5a9da1e",
+      "locations": [
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" }
+      ]
+    },
+    {
+      "name": "netstandard-4.6.26011.1.dll",
+      "keyId": 69098487,
+      "keyUuid": "a1b87d21-b4a4-4ebe-88e4-6ac61b933afc",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "NewRelic.Api.Agent-6.2.26.0.dll",
+      "keyId": 74686370,
+      "keyUuid": "b06e0b7c-939f-45ec-a0d3-9a7fd996893c",
+      "locations": [
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" }
+      ]
+    },
+    {
+      "name": "Newtonsoft.Json-10.0.1.20720.dll",
+      "keyId": 74462262,
+      "keyUuid": "ffcb10f6-cd98-448a-b24a-1c6592b00f38",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "Newtonsoft.Json-11.0.2.21924.dll",
+      "keyId": 74461175,
+      "keyUuid": "9c69befe-23d8-43e4-bb6f-f21f3b9e8a43",
+      "locations": [
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" }
+      ]
+    },
+    {
+      "name": "Newtonsoft.Json-8.0.3.19514.dll",
+      "keyId": 69040310,
+      "keyUuid": "4a14dbce-c6b6-4769-8913-0fc7db517c33",
+      "locations": [
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" }
+      ]
+    },
+    {
+      "name": "Newtonsoft.Json.Bson-1.0.1.20722.dll",
+      "keyId": 71384234,
+      "keyUuid": "d01b4ed0-04fd-4941-8591-247128583ef9",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "NHibernate-3.0.0.4000.dll",
+      "keyId": 68419132,
+      "keyUuid": "e6a382b1-8f9b-4eaf-9183-55864603de46",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "NHibernate.ByteCode.Castle-3.0.0.4000.dll",
+      "keyId": 68419123,
+      "keyUuid": "5edc0b9b-417f-4fd9-b083-919329211fce",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "Nito.AsyncEx-3.0.1.0.dll",
+      "keyId": 72067705,
+      "keyUuid": "61d9507f-c2eb-4143-9380-f7230996f71d",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "Nito.AsyncEx.Concurrent-3.0.1.0.dll",
+      "keyId": 72067709,
+      "keyUuid": "6dafad73-c782-4b0e-99fa-200648793221",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "Nito.AsyncEx.Enlightenment-3.0.1.0.dll",
+      "keyId": 72067708,
+      "keyUuid": "b40e0194-dc92-4b63-9a22-f03014bf409a",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "npm-3.4.0-3.4.1.js",
+      "keyId": 28377994,
+      "keyUuid": "92a5882a-9793-4d3a-9a07-fdb0b8959d11",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "RazorEngine-3.9.0.dll",
+      "keyId": 69152134,
+      "keyUuid": "86001ba6-f02c-4e1a-ab0a-07cdb815035d",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "Remotion.Data.Linq-1.13.41.2.dll",
+      "keyId": 68298067,
+      "keyUuid": "ae5e6894-f0e4-4d34-bc3b-b065b0823a52",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "Remotion.Linq-2.1.1.30000.dll",
+      "keyId": 69071678,
+      "keyUuid": "8cd041f7-f72a-4817-b085-52ffcd9067bb",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "ServiceFabricHostWizard.dll",
+      "keyId": 77507814,
+      "keyUuid": "0622a8c6-a19a-40de-a7e0-941878a3baf2",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "Swashbuckle.Core-1.0.0.0.dll",
+      "keyId": 71398257,
+      "keyUuid": "a90e00d1-f707-4e01-84e7-21588ee7053a",
+      "locations": [
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" }
+      ]
+    },
+    {
+      "name": "System-4.6.1590.0 built by: NETFXREL2.dll",
+      "keyId": 69154951,
+      "keyUuid": "f41658a5-8a38-4df0-94fe-0963d1bd30f4",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "System.AppContext-4.6.25714.01.dll",
+      "keyId": 70460155,
+      "keyUuid": "9e3f4cbd-25db-425e-8fd3-08644e10a862",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "System.Buffers-4.6.25519.03.dll",
+      "keyId": 70055257,
+      "keyUuid": "9a7af676-ea63-4315-9c10-db665de823bc",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "System.Buffers-4.6.25519.03.dll",
+      "keyId": 71384190,
+      "keyUuid": "c76f958e-01f6-4a51-afdc-09e53101d51f",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "System.Collections-4.6.25714.01.dll",
+      "keyId": 77424524,
+      "keyUuid": "078a935a-d6e9-4def-a3f5-ffe7c4101a2d",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "System.Collections.Concurrent-4.6.25714.01.dll",
+      "keyId": 77424513,
+      "keyUuid": "2ecb66e8-831c-41d7-9c70-b2780ea031f6",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "System.Collections.Immutable-4.6.25519.03.dll",
+      "keyId": 69057510,
+      "keyUuid": "ab0e32e2-d9d9-4b8e-acbd-fb7018bac6bd",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "System.Collections.NonGeneric-4.6.25714.01.dll",
+      "keyId": 70460123,
+      "keyUuid": "6ad5153c-92d1-4c72-8003-ab300c193a11",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "System.Collections.Specialized-4.6.25714.01.dll",
+      "keyId": 70460092,
+      "keyUuid": "fc8835d8-564e-4e23-a2a6-f85f83a9c99d",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "System.ComponentModel-4.6.25714.01.dll",
+      "keyId": 70460103,
+      "keyUuid": "2f1c6b40-1ab3-49d7-8e35-e2c11a32491c",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "System.ComponentModel.Annotations-4.6.25519.03.dll",
+      "keyId": 71384189,
+      "keyUuid": "1f386a2f-8252-49c6-8d8a-3ff3e464a7b2",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "System.ComponentModel.Annotations-4.6.25519.03.dll",
+      "keyId": 71384191,
+      "keyUuid": "68b804b2-d4f3-42e7-91d7-8f1ebdf3fc70",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "System.ComponentModel.Composition-4.6.1590.0.dll",
+      "keyId": 71385650,
+      "keyUuid": "8f91774c-52f4-413e-821d-ad2b6172fc17",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "System.ComponentModel.DataAnnotations-4.6.1590.0.dll",
+      "keyId": 71385628,
+      "keyUuid": "1bef1af0-fc36-4bc9-a161-595ebb2243a8",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "System.ComponentModel.EventBasedAsync-4.6.25714.01.dll",
+      "keyId": 77424520,
+      "keyUuid": "8b330041-9951-4809-88e9-a4b31fa75a51",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "System.ComponentModel.Primitives-4.6.25714.01.dll",
+      "keyId": 70460119,
+      "keyUuid": "3b2d4711-ce3e-4b8b-bf08-7dd490baecf3",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "System.ComponentModel.TypeConverter-4.6.25714.01.dll",
+      "keyId": 70460138,
+      "keyUuid": "18621a63-273f-441e-9130-94bd927a3af2",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "System.Configuration-4.6.1590.0.dll",
+      "keyId": 74661844,
+      "keyUuid": "3bbb7711-cd99-4a58-ae4b-2e761d5f6305",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "System.Console-4.6.25714.01.dll",
+      "keyId": 70460118,
+      "keyUuid": "90fb0a79-063b-4162-bfc1-4caddff50df4",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "System.Core-4.6.1590.0 built by: NETFXREL2.dll",
+      "keyId": 69154952,
+      "keyUuid": "16148f4e-082b-4710-9abb-13e708960495",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "System.Data-4.6.1590.0.dll",
+      "keyId": 71385626,
+      "keyUuid": "d687666e-005f-40b6-b00d-487abb5fc554",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "System.Data.Common-4.6.26011.01.dll",
+      "keyId": 70460151,
+      "keyUuid": "bd15a7ac-c996-4035-b4be-3c8081ceee47",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "System.Data.SqlClient-4.6.25519.03.dll",
+      "keyId": 69068104,
+      "keyUuid": "dcb8dea6-a674-45db-97f3-5e848e823a51",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "System.Data.SqlClient-4.6.25519.03.dll",
+      "keyId": 74258027,
+      "keyUuid": "9aef62d2-2353-4da9-acb3-d95326133de4",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "System.Diagnostics.Contracts-4.6.25714.01.dll",
+      "keyId": 70460100,
+      "keyUuid": "0008369a-6ce9-4793-83f2-259cbe1d4494",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "System.Diagnostics.Debug-4.6.25714.01.dll",
+      "keyId": 77424516,
+      "keyUuid": "03be8531-1185-4193-a987-7335875312b1",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "System.Diagnostics.DiagnosticSource-4.6.25519.03.dll",
+      "keyId": 69219534,
+      "keyUuid": "f8d13627-336a-4e75-bbb0-972f5215864c",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "System.Diagnostics.FileVersionInfo-4.6.25714.01.dll",
+      "keyId": 70460122,
+      "keyUuid": "7aef299c-a479-45bb-9839-988f67d057f3",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "System.Diagnostics.Process-4.6.25714.01.dll",
+      "keyId": 70460093,
+      "keyUuid": "22c8f2b1-8665-499a-b4ea-cb183f595ed3",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "System.Diagnostics.StackTrace-4.6.26011.01.dll",
+      "keyId": 70460129,
+      "keyUuid": "a5c5ca74-aa1c-4b05-8924-7313538ee5fd",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "System.Diagnostics.TextWriterTraceListener-4.6.25714.01.dll",
+      "keyId": 70460086,
+      "keyUuid": "f32eb74c-8006-4f84-9928-d4c392d001b2",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "System.Diagnostics.Tools-4.6.25714.01.dll",
+      "keyId": 70460140,
+      "keyUuid": "7170bc54-72e7-441b-b7cc-ed8e33a2cbfa",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "System.Diagnostics.TraceSource-4.6.25714.01.dll",
+      "keyId": 70460116,
+      "keyUuid": "2d80a7ad-b838-4755-a5e5-f955934d2986",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "System.Diagnostics.Tracing-4.6.26011.01.dll",
+      "keyId": 70460146,
+      "keyUuid": "a0360ed9-6ca7-4e37-b185-c9c814692bda",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "System.Drawing-4.6.1590.0.dll",
+      "keyId": 71385649,
+      "keyUuid": "b65b00bf-1ae1-4ab2-8e98-884fa05d8330",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "System.Drawing.Primitives-4.6.25714.01.dll",
+      "keyId": 70460142,
+      "keyUuid": "6f92dea8-dad2-460a-bf93-5b8755a79ce4",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "System.Dynamic.Runtime-4.6.25714.01.dll",
+      "keyId": 77424510,
+      "keyUuid": "53cdd7fb-6530-4e92-9800-1369630f81e6",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "System.Globalization-4.6.25714.01.dll",
+      "keyId": 77424518,
+      "keyUuid": "238526d7-88d7-4804-b6dc-6dd21911ba30",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "System.Globalization.Calendars-4.6.25714.01.dll",
+      "keyId": 70460157,
+      "keyUuid": "8f266393-35d7-4cd1-b329-c82c969a35c8",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "System.Globalization.Extensions-4.6.26011.01.dll",
+      "keyId": 70460107,
+      "keyUuid": "5bd15a4b-c7ac-4279-99be-0af9c389e1d5",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "System.Interactive.Async-3.1.1.0.dll",
+      "keyId": 74666168,
+      "keyUuid": "57db5c83-ab26-4bef-97c3-fb547584c0fc",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "System.IO-4.6.25714.01.dll",
+      "keyId": 70460110,
+      "keyUuid": "f859cecf-5bcb-4377-8c61-6caeec250ac9",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "System.IO.Compression-4.6.26011.01.dll",
+      "keyId": 70460141,
+      "keyUuid": "0c765ed0-dc44-495f-b7dd-302596675a73",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "System.IO.Compression.FileSystem-4.6.1590.0.dll",
+      "keyId": 71385642,
+      "keyUuid": "137fe54c-b25d-45ce-ab19-e2788ba07a1e",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "System.IO.Compression.ZipFile-4.6.25714.01.dll",
+      "keyId": 70460132,
+      "keyUuid": "ef4eec10-ad0b-4cce-846d-491f14ad7b85",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "System.IO.FileSystem-4.6.25714.01.dll",
+      "keyId": 70460096,
+      "keyUuid": "a2c4cbf5-e34c-4bf9-8af0-1910bd24fe0f",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "System.IO.FileSystem.DriveInfo-4.6.25714.01.dll",
+      "keyId": 70460147,
+      "keyUuid": "3f42c0fb-779e-4fb3-a8ab-b90606d39ef6",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "System.IO.FileSystem.Primitives-4.6.25714.01.dll",
+      "keyId": 70460143,
+      "keyUuid": "f46e612e-78d7-4de3-8fa6-6d9a50be2aaa",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "System.IO.FileSystem.Watcher-4.6.25714.01.dll",
+      "keyId": 70460148,
+      "keyUuid": "59501691-3fb9-4387-96c0-3885ddd5abff",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "System.IO.IsolatedStorage-4.6.25714.01.dll",
+      "keyId": 70460094,
+      "keyUuid": "049f49b1-834b-492d-84a8-3b2d2bfb4349",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "System.IO.MemoryMappedFiles-4.6.25714.01.dll",
+      "keyId": 70460139,
+      "keyUuid": "c820a247-fa83-4842-b9d2-5e2f8cd67443",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "System.IO.Pipes-4.6.25714.01.dll",
+      "keyId": 70460084,
+      "keyUuid": "985001a7-f6b1-436c-9074-ebfd1c258eac",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "System.IO.UnmanagedMemoryStream-4.6.25714.01.dll",
+      "keyId": 70460102,
+      "keyUuid": "8cb08f7e-c31e-4064-bcec-9207e212c835",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "System.Linq-4.6.25714.01.dll",
+      "keyId": 70460095,
+      "keyUuid": "07d6fb0a-8db8-4949-8251-d473f8821f88",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "System.Linq.Expressions-4.6.25714.01.dll",
+      "keyId": 70460149,
+      "keyUuid": "956f7e14-6057-4380-a545-b26936973692",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "System.Linq.Parallel-4.6.25714.01.dll",
+      "keyId": 70460126,
+      "keyUuid": "0eba785a-e111-43cc-8f9e-e277b61ea196",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "System.Linq.Queryable-4.6.25714.01.dll",
+      "keyId": 70460085,
+      "keyUuid": "5b75fcd9-e9cc-42ca-96b2-974d4cd49f9d",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "System.Management-4.6.1590.0.dll",
+      "keyId": 74145209,
+      "keyUuid": "e19cd800-3a32-40c6-b560-43deae100ba1",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "System.Net.Http-4.6.26011.01.dll",
+      "keyId": 70460156,
+      "keyUuid": "c522e90d-cf3f-4939-b2d5-685a42cd6827",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "System.Net.Http.Formatting-5.2.30128.0.dll",
+      "keyId": 69037398,
+      "keyUuid": "7c88bbfc-c856-4855-8fc0-128cc424bddb",
+      "locations": [
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" }
+      ]
+    },
+    {
+      "name": "System.Net.NameResolution-4.6.25714.01.dll",
+      "keyId": 70460088,
+      "keyUuid": "c3984238-1c96-4568-8839-33448a2b9420",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "System.Net.NetworkInformation-4.6.25714.01.dll",
+      "keyId": 70460097,
+      "keyUuid": "694b7ff8-852d-4b5f-97a4-d23fd060e145",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "System.Net.Ping-4.6.25714.01.dll",
+      "keyId": 70460115,
+      "keyUuid": "2f990abc-a7be-4166-aad2-650176f57464",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "System.Net.Primitives-4.6.25714.01.dll",
+      "keyId": 77424519,
+      "keyUuid": "f2659266-ef64-4f64-a513-ad7a8e2e465b",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "System.Net.Requests-4.6.25714.01.dll",
+      "keyId": 77424511,
+      "keyUuid": "407539df-d9ad-43a2-b59a-e984c360eb0f",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "System.Net.Security-4.6.25714.01.dll",
+      "keyId": 70460117,
+      "keyUuid": "240bd1a1-a827-4364-a40c-f986b7823fc2",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "System.Net.Sockets-4.6.26011.01.dll",
+      "keyId": 70460154,
+      "keyUuid": "806d4da9-137f-4ad7-b5f4-385e8a1ad87f",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "System.Net.WebHeaderCollection-4.6.25714.01.dll",
+      "keyId": 70460144,
+      "keyUuid": "d4633dd8-2f59-41fc-aac2-6bb6e3695c8b",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "System.Net.WebSockets-4.6.25714.01.dll",
+      "keyId": 70460121,
+      "keyUuid": "4654415f-691a-4b35-bcaa-c78a5018751b",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "System.Net.WebSockets.Client-4.6.25714.01.dll",
+      "keyId": 70460113,
+      "keyUuid": "24f6c707-bf6d-4173-a5fd-d1158d2f7fa4",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "System.Numerics-4.6.1590.0.dll",
+      "keyId": 71385643,
+      "keyUuid": "0a1f3343-e9a9-414d-a011-11edd3686805",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "System.Numerics.Vectors-4.6.25519.03.dll",
+      "keyId": 71383103,
+      "keyUuid": "c074822a-e456-45fe-b84a-d04ca4a64685",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "System.Numerics.Vectors-4.6.25519.03.dll",
+      "keyId": 71384302,
+      "keyUuid": "0ec136c9-3bd3-437e-b006-90b08d648e4e",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "System.ObjectModel-4.6.25714.01.dll",
+      "keyId": 77424517,
+      "keyUuid": "4f1d3766-cb43-4bde-bbf4-49513026264a",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "System.Reactive.Core-2.2.5.40722.dll",
+      "keyId": 69039166,
+      "keyUuid": "fee16bb9-b8b5-4c6b-b33b-d84077265451",
+      "locations": [
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" }
+      ]
+    },
+    {
+      "name": "System.Reactive.Interfaces-2.2.5.40722.dll",
+      "keyId": 69039164,
+      "keyUuid": "52316e54-d428-4e15-be12-bf29063e2e8c",
+      "locations": [
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" }
+      ]
+    },
+    {
+      "name": "System.Reactive.Linq-2.2.5.40722.dll",
+      "keyId": 69051134,
+      "keyUuid": "94b31637-2e06-4e40-b14a-a0c8bfb991a5",
+      "locations": [
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" }
+      ]
+    },
+    {
+      "name": "System.Reactive.PlatformServices-2.2.5.40722.dll",
+      "keyId": 69039165,
+      "keyUuid": "2b38b514-d5fc-442f-8d2c-cc87d1d7019c",
+      "locations": [
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" }
+      ]
+    },
+    {
+      "name": "System.Reflection-4.6.25714.01.dll",
+      "keyId": 70460136,
+      "keyUuid": "75f943a5-4dd8-40a5-a7e3-4792496f03eb",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "System.Reflection.Emit-4.6.1590.0.dll",
+      "keyId": 71385624,
+      "keyUuid": "806b749a-4b79-40ec-93f9-57d6dc81b204",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "System.Reflection.Emit.ILGeneration-4.6.1590.0.dll",
+      "keyId": 71385641,
+      "keyUuid": "eadb1abc-df95-4f34-b6e6-3aeb31226318",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "System.Reflection.Emit.Lightweight-4.6.1590.0.dll",
+      "keyId": 71385627,
+      "keyUuid": "8222ce55-8c67-4e27-a91e-1fa9a8d59269",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "System.Reflection.Extensions-4.6.25714.01.dll",
+      "keyId": 70460099,
+      "keyUuid": "6a8e495c-0fd0-4b86-986a-091671596b42",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "System.Reflection.Metadata-4.6.25519.03.dll",
+      "keyId": 70055260,
+      "keyUuid": "551f7f38-ee68-4372-bad6-92db3340913f",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "System.Reflection.Primitives-4.6.25714.01.dll",
+      "keyId": 70460134,
+      "keyUuid": "feefafce-30fc-405b-a324-7f37d3a48d4e",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "System.Resources.Reader-4.6.25714.01.dll",
+      "keyId": 70460135,
+      "keyUuid": "6cd31d54-0246-4c5b-97b1-32f9643df728",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "System.Resources.ResourceManager-4.6.25714.01.dll",
+      "keyId": 70460098,
+      "keyUuid": "2c04bd4d-5de1-431c-ba16-bbe42f3451fa",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "System.Resources.Writer-4.6.25714.01.dll",
+      "keyId": 70460114,
+      "keyUuid": "8fa41113-8b16-43ef-a21d-5dbdfc43cf40",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "System.Runtime-4.6.25714.01.dll",
+      "keyId": 70460087,
+      "keyUuid": "dcf8f7a3-41b5-497d-906a-517e529d8d40",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "System.Runtime.CompilerServices.Unsafe-1.0.0.dll",
+      "keyId": 21481846,
+      "keyUuid": "54b33b72-11d7-4804-8225-a4d355578d47",
+      "locations": [ { "matchType": "FILENAME" } ]
+    },
+    {
+      "name": "System.Runtime.CompilerServices.Unsafe-4.6.25519.03.dll",
+      "keyId": 74235699,
+      "keyUuid": "32749034-03e1-47a1-8351-eccc811e95bb",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "System.Runtime.CompilerServices.VisualC-4.6.25714.01.dll",
+      "keyId": 70460133,
+      "keyUuid": "965c986a-6d2b-4aed-a6d9-846ec7db0895",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "System.Runtime.Extensions-4.6.25714.01.dll",
+      "keyId": 70460120,
+      "keyUuid": "17da1747-9957-46d6-a430-f73446799c0d",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "System.Runtime.Handles-4.6.25714.01.dll",
+      "keyId": 70460145,
+      "keyUuid": "575c4283-6712-4d6f-9f63-8c367563d75e",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "System.Runtime.InteropServices-4.6.25714.01.dll",
+      "keyId": 70460091,
+      "keyUuid": "78e0daaa-0ed9-4605-b0bf-ef341230ca03",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "System.Runtime.InteropServices.RuntimeInformation-0.2.0-build3587-alpha.dll",
+      "keyId": 25164808,
+      "keyUuid": "a1a2c956-21ab-4e67-9eff-8f8f3c71b8c2",
+      "locations": [ { "matchType": "FILENAME" } ]
+    },
+    {
+      "name": "System.Runtime.InteropServices.WindowsRuntime-4.6.1590.0.dll",
+      "keyId": 71385631,
+      "keyUuid": "0ff76daf-132d-47f4-827d-656d7471c8c4",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "System.Runtime.Numerics-4.6.25714.01.dll",
+      "keyId": 70460105,
+      "keyUuid": "200752e8-966d-4616-b681-fce434d72606",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "System.Runtime.Serialization-4.6.1590.0.dll",
+      "keyId": 71385623,
+      "keyUuid": "87f14595-17a1-4613-ae81-56fa854f1133",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "System.Runtime.Serialization.Formatters-4.6.25714.01.dll",
+      "keyId": 70460131,
+      "keyUuid": "a6f1106c-8d27-496a-b8cc-4d8c84ad9657",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "System.Runtime.Serialization.Json-4.6.25714.01.dll",
+      "keyId": 70460128,
+      "keyUuid": "33f16a2f-1ced-4776-9f95-1b03b48be2f5",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "System.Runtime.Serialization.Primitives-4.6.26011.01.dll",
+      "keyId": 70460089,
+      "keyUuid": "660f034a-b61c-4fd5-abaa-38ce6486e785",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "System.Runtime.Serialization.Xml-4.6.26011.01.dll",
+      "keyId": 70460152,
+      "keyUuid": "407be7c1-7b3b-43df-83b8-d8328d33c270",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "System.Security-4.6.1590.0.dll",
+      "keyId": 71385651,
+      "keyUuid": "c2c9fb8a-fd6e-4b54-8686-f5ca195d6c44",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "System.Security.AccessControl-4.6.25519.03.dll",
+      "keyId": 71387883,
+      "keyUuid": "9008dacb-a842-463e-b9a2-1094c7e70ca4",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "System.Security.AccessControl-4.6.25519.03.dll",
+      "keyId": 71395755,
+      "keyUuid": "7f7e137f-d9a0-4fd9-b6ad-df27ea040be2",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "System.Security.Claims-4.6.25714.01.dll",
+      "keyId": 70460137,
+      "keyUuid": "e6d7a0ae-1e71-4e02-9152-15b338a68607",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "System.Security.Cryptography.Algorithms-4.6.26011.01.dll",
+      "keyId": 74145211,
+      "keyUuid": "3282d3eb-30d7-47e8-90b1-c204439b5b5e",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "System.Security.Cryptography.Csp-4.6.25714.01.dll",
+      "keyId": 70460111,
+      "keyUuid": "e5c7857f-91ef-4e84-8ec1-588d86090282",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "System.Security.Cryptography.Encoding-4.6.25714.01.dll",
+      "keyId": 70460124,
+      "keyUuid": "3f273061-010a-4840-88fc-7f3317d296c1",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "System.Security.Cryptography.Primitives-4.6.25714.01.dll",
+      "keyId": 70460130,
+      "keyUuid": "8a256a06-0325-4674-903f-8c95839a47c8",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "System.Security.Cryptography.X509Certificates-4.6.25714.01.dll",
+      "keyId": 70460106,
+      "keyUuid": "a676a41e-6a99-4d64-8301-a73e68adab98",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "System.Security.Cryptography.Xml-4.6.25519.03.dll",
+      "keyId": 71387884,
+      "keyUuid": "d707aeb0-577e-495d-9cd6-717055014020",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "System.Security.Cryptography.Xml-4.6.25519.03.dll",
+      "keyId": 71401165,
+      "keyUuid": "1ab59ad5-8d51-44dc-a42b-a16ef7dfb477",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "System.Security.Principal-4.6.25714.01.dll",
+      "keyId": 70460125,
+      "keyUuid": "f749146d-09bb-4d79-8300-2dd9ef215263",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "System.Security.Principal.Windows-4.6.25519.03.dll",
+      "keyId": 71387893,
+      "keyUuid": "a4566c5a-1b08-4f08-8281-14d4c50b3c95",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "System.Security.Principal.Windows-4.6.25519.03.dll",
+      "keyId": 71395756,
+      "keyUuid": "7ad3ee67-33bb-4c4c-b421-a442c3ea3e5e",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "System.Security.SecureString-4.6.26011.01.dll",
+      "keyId": 70460153,
+      "keyUuid": "fa49425b-caa9-49d1-a658-dea7b5b62146",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "System.ServiceModel.Duplex-4.6.1590.0.dll",
+      "keyId": 71385652,
+      "keyUuid": "a3abf55d-34a7-4f12-99d2-1061f7c18c93",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "System.ServiceModel.Http-4.6.1590.0.dll",
+      "keyId": 71385653,
+      "keyUuid": "0423be5d-195c-43c6-be7d-45bf63d5c9fe",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "System.ServiceModel.NetTcp-4.6.1590.0.dll",
+      "keyId": 71385632,
+      "keyUuid": "c4406da6-6000-4bab-97d1-5f033da92fa1",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "System.ServiceModel.Primitives-4.6.1590.0.dll",
+      "keyId": 71385640,
+      "keyUuid": "fd3bcb57-8843-4980-ab91-f46920d91ede",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "System.ServiceModel.Security-4.6.1590.0.dll",
+      "keyId": 71385646,
+      "keyUuid": "490449c8-4b9c-4573-aed5-10b1e0829256",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "System.ServiceProcess-4.6.1590.0.dll",
+      "keyId": 74986756,
+      "keyUuid": "634d00e6-d984-47d3-bf79-2872df3c8d05",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "System.Text.Encoding-4.6.25714.01.dll",
+      "keyId": 77424527,
+      "keyUuid": "33ea986e-b999-4921-bd52-c4ff875bff3f",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "System.Text.Encoding.CodePages-4.6.24705.01.dll",
+      "keyId": 69037778,
+      "keyUuid": "6e7efd2b-8991-4310-8fc3-7779b2a50e2b",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "System.Text.Encoding.Extensions-4.6.25714.01.dll",
+      "keyId": 77424522,
+      "keyUuid": "c37c499b-d2ab-43f1-af89-69a17e2211f3",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "System.Text.Encodings.Web-4.6.25519.03.dll",
+      "keyId": 69095455,
+      "keyUuid": "aa1c9689-a046-4127-94bd-557d1e6981c3",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "System.Text.RegularExpressions-4.6.25714.01.dll",
+      "keyId": 70460150,
+      "keyUuid": "f25acb52-22f0-429e-99e1-6e1281da4c2a",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "System.Threading-4.6.25714.01.dll",
+      "keyId": 77424514,
+      "keyUuid": "f26fe3ab-6c7c-488f-b8f2-8c589820b74e",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "System.Threading.Overlapped-4.6.26011.01.dll",
+      "keyId": 70460127,
+      "keyUuid": "ed88c8be-be58-4175-96d2-dda43c309250",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "System.Threading.Tasks-4.6.25714.01.dll",
+      "keyId": 77424521,
+      "keyUuid": "16800ee6-e617-45cf-abef-8f23461b28c7",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "System.Threading.Tasks.Extensions-4.6.25519.03.dll",
+      "keyId": 70055258,
+      "keyUuid": "a38f1ec4-7207-4541-8f6f-c434d49e0e8c",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "System.Threading.Tasks.Parallel-4.6.25714.01.dll",
+      "keyId": 70460090,
+      "keyUuid": "af708de6-ee54-4920-aec8-4e06befe8a20",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "System.Threading.Thread-4.6.25714.01.dll",
+      "keyId": 70460104,
+      "keyUuid": "8e83b87b-1b1e-4cd6-b651-11e245267d37",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "System.Threading.ThreadPool-4.6.25714.01.dll",
+      "keyId": 77424512,
+      "keyUuid": "715a1e73-14e5-4207-a7b9-49ff78fc2b7f",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "System.Threading.Timer-4.6.25714.01.dll",
+      "keyId": 70460112,
+      "keyUuid": "4de9e997-cf37-440e-84e9-303a53a3b507",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "System.ValueTuple-4.6.26011.01.dll",
+      "keyId": 74145210,
+      "keyUuid": "2aad9a45-76e3-4fd3-847a-f0e2d26afb7e",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "System.Web.Helpers-3.0.30128.0.dll",
+      "keyId": 69037783,
+      "keyUuid": "2ce1aecf-3b3d-46f0-a026-01119ad3f54f",
+      "locations": [
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" }
+      ]
+    },
+    {
+      "name": "System.Web.Http-5.2.30128.0.dll",
+      "keyId": 69037631,
+      "keyUuid": "c1618628-fc4e-4ae3-b672-99243a852463",
+      "locations": [
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" }
+      ]
+    },
+    {
+      "name": "System.Web.Http.Owin-5.2.30128.0.dll",
+      "keyId": 69037634,
+      "keyUuid": "2152a977-bffd-4b86-b96b-47564a458ab2",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "System.Web.Http.WebHost-5.2.30128.0.dll",
+      "keyId": 69037632,
+      "keyUuid": "f7191bfd-4707-4f08-9456-3ae7949acb7d",
+      "locations": [
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" }
+      ]
+    },
+    {
+      "name": "System.Web.Mvc-5.2.30128.0.dll",
+      "keyId": 69037797,
+      "keyUuid": "86f4565e-0a36-4eac-98fb-3d8eec1e1e72",
+      "locations": [
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" }
+      ]
+    },
+    {
+      "name": "System.Web.Razor-3.0.30128.0.dll",
+      "keyId": 69037801,
+      "keyUuid": "dc91dd09-63bb-4f48-b6dc-50eb077a944b",
+      "locations": [
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" }
+      ]
+    },
+    {
+      "name": "System.Web.Webpages-3.0.30128.0.dll",
+      "keyId": 69037777,
+      "keyUuid": "58d38dda-d7dd-4d5c-b24a-f56faec8cd83",
+      "locations": [
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" }
+      ]
+    },
+    {
+      "name": "System.Web.Webpages.Deployment-3.0.30128.0.dll",
+      "keyId": 69037774,
+      "keyUuid": "27b2b2fd-1c25-4c5a-8f5e-3ed9f3bb4892",
+      "locations": [
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" }
+      ]
+    },
+    {
+      "name": "System.Web.Webpages.Razor-3.0.30128.0.dll",
+      "keyId": 69037769,
+      "keyUuid": "2cbd616b-f152-48fe-99ae-b9ff6e0788c6",
+      "locations": [
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" }
+      ]
+    },
+    {
+      "name": "System.Xml-4.6.1590.0.dll",
+      "keyId": 71385635,
+      "keyUuid": "5537f4f8-0143-4003-b059-f34fa0a32ce1",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "System.Xml.Linq-4.6.1590.0.dll",
+      "keyId": 71385655,
+      "keyUuid": "a46bde4d-4293-41c3-8dfa-a84d36ef0c4b",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "System.Xml.ReaderWriter-4.6.25714.01.dll",
+      "keyId": 70460109,
+      "keyUuid": "1f1ba369-3493-4617-806c-7a1242759d24",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "System.Xml.XDocument-4.6.25714.01.dll",
+      "keyId": 77424515,
+      "keyUuid": "63bdd998-b3fa-4cbd-8593-e873fbffce0d",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "System.Xml.XmlDocument-4.6.25714.01.dll",
+      "keyId": 70460083,
+      "keyUuid": "1e222e27-d621-4624-9376-857a638fe366",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "System.Xml.XmlSerializer-4.6.25714.01.dll",
+      "keyId": 77424528,
+      "keyUuid": "d861c43c-3f13-4075-858f-aa1f03be4fa3",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "System.Xml.XPath-4.6.25714.01.dll",
+      "keyId": 70460159,
+      "keyUuid": "eaba2515-9c29-4cbf-8cfe-8ddbd5fca278",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "System.Xml.XPath.XDocument-4.6.26011.01.dll",
+      "keyId": 70460101,
+      "keyUuid": "dba272a4-c348-4933-827a-0f3ad360f2a4",
+      "locations": [ { "matchType": "SHA1" } ]
+    },
+    {
+      "name": "Topshelf-3.1.122.dll",
+      "keyId": 72079931,
+      "keyUuid": "56e48d5e-ebcd-4088-98ec-a991d01e6253",
+      "locations": [
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" }
+      ]
+    },
+    {
+      "name": "Topshelf.Log4Net-3.1.122.dll",
+      "keyId": 74145212,
+      "keyUuid": "cb7378a0-db1a-4113-b114-a0ef8c98fb0d",
+      "locations": [
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" }
+      ]
+    },
+    {
+      "name": "WebActivatorEx-2.1.0.dll",
+      "keyId": 69038549,
+      "keyUuid": "dc7c7cbe-ded3-4fb4-819f-fb3a4299e2ba",
+      "locations": [
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" },
+        { "matchType": "SHA1" }
+      ]
+    }
+  ]
+}

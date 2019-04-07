@@ -1,0 +1,12 @@
+{
+  "projectVitals": [
+    {
+      "pluginName": "fs-agent:18.2.2",
+      "name": "My Project",
+      "token": "project_token",
+      "uploadedBy": "name_of_user_who_ran_scan",
+      "creationDate": "2016-01-01 12:00:00",
+      "lastUpdatedDate": "2016-02-02 16:50:59"
+    }
+  ]
+}

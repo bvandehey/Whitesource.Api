@@ -1,0 +1,61 @@
+{
+  "dependencies": [
+    {
+      "keyUuid": "0b6a3818-ed95-4190-b40d-0d0d9ca51166",
+      "name": "CDI APIs",
+      "groupId": "javax.enterprise",
+      "artifactId": "cdi-api",
+      "version": "1.0",
+      "classifier": "",
+      "scope": "COMPILE",
+      "extension": "jar",
+      "sha1": "44c453f60909dfc223552ace63e05c694215156b",
+      "dependencies": [
+        {
+          "keyUuid": "e8d725f6-081c-4e7d-b09c-3fadcb861a35",
+          "name": "JSR-250 Common Annotations for the JavaTM Platform",
+          "groupId": "javax.annotation",
+          "artifactId": "jsr250-api",
+          "version": "1.0",
+          "classifier": "",
+          "scope": "COMPILE",
+          "extension": "jar",
+          "sha1": "5025422767732a1ab45d93abfea846513d742dcf",
+          "dependencies": [
+          ],
+          "licenses": [
+            {
+              "name": "CDDL 1.0",
+              "url": "http://www.opensource.org/licenses/CDDL-1.0"
+            }
+          ]
+        }
+      ],
+      "licenses": [
+        {
+          "name": "Apache 2.0",
+          "url": "http://www.opensource.org/licenses/Apache-2.0"
+        }
+      ]
+    },
+    {
+      "keyUuid": "b4264d26-09ca-4266-97ba-0bec7318d984",
+      "name": "org.eclipse.sisu.inject",
+      "groupId": "org.eclipse.sisu",
+      "artifactId": "org.eclipse.sisu.inject",
+      "version": "0.3.2",
+      "classifier": "",
+      "scope": "COMPILE",
+      "extension": "jar",
+      "sha1": "59044b92ec27cc6fda7a2d24b2cd6cec23f31d5b",
+      "dependencies": [
+      ],
+      "licenses": [
+        {
+          "name": "Eclipse 1.0",
+          "url": "http://www.opensource.org/licenses/EPL-1.0"
+        }
+      ]
+    }
+  ]
+}

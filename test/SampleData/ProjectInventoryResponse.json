@@ -1,0 +1,764 @@
+{
+  "projectVitals": {
+    "productName": "Product 1",
+    "name": "Project 1",
+    "token": "cafc4edff5240ed0b75b9254ccd9540321f8701aa1f4640196925010dad2c659",
+    "creationDate": "2019-03-20 18:40:56",
+    "lastUpdatedDate": "2019-03-20 18:41:22"
+  },
+  "libraries": [
+    {
+      "keyUuid": "fd2e73ff-4e21-4689-9d9f-470c6fe3c709",
+      "keyId": 76864476,
+      "name": "GraphQL-2.0.0.0.dll",
+      "groupId": "GraphQL",
+      "artifactId": "GraphQL-2.0.0.0.dll",
+      "version": "2.0.0.0",
+      "sha1": "c21b76aa30309a2f4cfcd13139ed72c382d0e629",
+      "type": "DOT_NET_AS_GENERIC_RESOURCE",
+      "languages": ".NET",
+      "references": {
+        "url": "https://api.nuget.org/packages/graphql.server.1.1.0.nupkg",
+        "genericPackageIndex": ""
+      },
+      "licenses": [],
+      "vulnerabilities": [],
+      "outdated": true,
+      "matchType": "SHA1",
+      "outdatedModel": {
+        "outdatedLibraryDate": "2018-08-11",
+        "newestVersion": "2.4.0.0",
+        "newestLibraryDate": "2018-11-15",
+        "versionsInBetween": 4
+      }
+    },
+    {
+      "keyUuid": "9c69befe-23d8-43e4-bb6f-f21f3b9e8a43",
+      "keyId": 74461175,
+      "name": "Newtonsoft.Json-11.0.2.21924.dll",
+      "groupId": "Newtonsoft.Json",
+      "artifactId": "Newtonsoft.Json-11.0.2.21924.dll",
+      "version": "11.0.2.21924",
+      "sha1": "3a833eb7c6be203f16799d7b7ccd8b8c9d439261",
+      "type": "DOT_NET_AS_GENERIC_RESOURCE",
+      "languages": ".NET",
+      "references": {
+        "url": "https://api.nuget.org/packages/newtonsoft.json.11.0.2.nupkg",
+        "genericPackageIndex": ""
+      },
+      "licenses": [
+        {
+          "name": "MIT",
+          "url": "http://www.opensource.org/licenses/MIT",
+          "profileInfo": {
+            "copyrightRiskScore": "THREE",
+            "patentRiskScore": "ONE",
+            "copyleft": "NO",
+            "royaltyFree": "YES"
+          },
+          "referenceType": "Project home page",
+          "reference": "https://www.newtonsoft.com/json"
+        }
+      ],
+      "vulnerabilities": [],
+      "matchType": "SHA1"
+    },
+    {
+      "keyUuid": "a8d80523-769d-411a-a957-579d5efd3b4d",
+      "keyId": 74198253,
+      "name": "Common.Logging.Log4Net1213-3.3.1.0.dll",
+      "groupId": "Common.Logging.Log4Net1213",
+      "artifactId": "Common.Logging.Log4Net1213-3.3.1.0.dll",
+      "version": "3.3.1.0",
+      "sha1": "4898c660d4365a9cf46187588820c3bfb2cf4e0c",
+      "type": "DOT_NET_AS_GENERIC_RESOURCE",
+      "languages": ".NET",
+      "references": {
+        "url": "https://api.nuget.org/packages/common.logging.log4net1213.3.3.1.nupkg",
+        "genericPackageIndex": ""
+      },
+      "licenses": [],
+      "vulnerabilities": [],
+      "outdated": true,
+      "matchType": "SHA1",
+      "outdatedModel": {
+        "outdatedLibraryDate": "2015-11-14",
+        "newestVersion": "3.4.1.0",
+        "newestLibraryDate": "2017-08-14",
+        "versionsInBetween": 1
+      }
+    },
+    {
+      "keyUuid": "d8582326-5ff1-4264-84a5-d38e14b9ba6f",
+      "keyId": 72916390,
+      "name": "LightInject.Web-1.0.0.7.dll",
+      "groupId": "LightInject.Web",
+      "artifactId": "LightInject.Web-1.0.0.7.dll",
+      "version": "1.0.0.7",
+      "sha1": "dac619a0ee281c57c0576feef497d134f08a838d",
+      "type": "DOT_NET_AS_GENERIC_RESOURCE",
+      "languages": ".NET",
+      "references": {
+        "url": "https://api.nuget.org/packages/lightinject.web.1.0.0.7.nupkg",
+        "genericPackageIndex": ""
+      },
+      "licenses": [
+        {
+          "name": "MIT",
+          "url": "http://www.opensource.org/licenses/MIT",
+          "profileInfo": {
+            "copyrightRiskScore": "THREE",
+            "patentRiskScore": "ONE",
+            "copyleft": "NO",
+            "royaltyFree": "YES"
+          },
+          "referenceType": ".NET",
+          "reference": "http://opensource.org/licenses/MIT"
+        }
+      ],
+      "vulnerabilities": [],
+      "outdated": true,
+      "matchType": "SHA1",
+      "outdatedModel": {
+        "outdatedLibraryDate": "2014-12-20",
+        "newestVersion": "2.0.0",
+        "newestLibraryDate": "2017-01-11",
+        "versionsInBetween": 2
+      }
+    },
+    {
+      "keyUuid": "7a47dfd1-07e2-41b9-9a50-b29d0988fe9f",
+      "keyId": 68081455,
+      "name": "Microsoft.Web.Infrastructure-1.0.20105.407.dll",
+      "groupId": "Microsoft ASP.Net WebPages",
+      "artifactId": "Microsoft.Web.Infrastructure-1.0.20105.407.dll",
+      "version": "1.0.20105.407",
+      "sha1": "91f688c235388c8bcee03ff20d0c8a90dbdd4e3e",
+      "type": "DOT_NET_AS_GENERIC_RESOURCE",
+      "languages": ".NET",
+      "references": {
+        "url": "https://api.nuget.org/packages/kentico.libraries.9.0.40.nupkg",
+        "genericPackageIndex": ""
+      },
+      "licenses": [
+        {
+          "name": "Microsoft ASP.NET MVC 3 Tools Update",
+          "url": "http://www.microsoft.com/web/webpi/eula/aspnetmvc3update-eula.htm",
+          "riskLevel": "unknown",
+          "referenceType": "Project home page",
+          "reference": "https://www.asp.net/"
+        }
+      ],
+      "vulnerabilities": [],
+      "matchType": "SHA1"
+    },
+    {
+      "keyUuid": "dc7c7cbe-ded3-4fb4-819f-fb3a4299e2ba",
+      "keyId": 69038549,
+      "name": "WebActivatorEx-2.1.0.dll",
+      "groupId": "WebActivator",
+      "artifactId": "WebActivatorEx-2.1.0.dll",
+      "version": "2.1.0",
+      "sha1": "ec26276e46877a9de0ce044c4c9dec43e22029a8",
+      "type": "DOT_NET_AS_GENERIC_RESOURCE",
+      "languages": ".NET",
+      "references": {
+        "url": "https://api.nuget.org/packages/cireson.platform.sdk.1.0.74-rc0007.nupkg",
+        "genericPackageIndex": ""
+      },
+      "licenses": [
+        {
+          "name": "Suspected Apache 2.0",
+          "riskLevel": "unknown",
+          "referenceType": "Project home page",
+          "reference": "https://github.com/davidebbo/WebActivator"
+        }
+      ],
+      "vulnerabilities": [],
+      "outdated": true,
+      "matchType": "SHA1",
+      "outdatedModel": {
+        "outdatedLibraryDate": "2015-12-15",
+        "newestVersion": "2.2.0",
+        "newestLibraryDate": "2016-10-05",
+        "versionsInBetween": 1
+      }
+    },
+    {
+      "keyUuid": "86f4565e-0a36-4eac-98fb-3d8eec1e1e72",
+      "keyId": 69037797,
+      "name": "System.Web.Mvc-5.2.30128.0.dll",
+      "groupId": "System.Web.Mvc",
+      "artifactId": "System.Web.Mvc-5.2.30128.0.dll",
+      "version": "5.2.30128.0",
+      "sha1": "0dde6fc20210fa41f820d19cf70054bc610af72f",
+      "type": "DOT_NET_AS_GENERIC_RESOURCE",
+      "languages": ".NET",
+      "references": {
+        "url": "https://api.nuget.org/packages/letsencrypt.webapponly.0.8.9.nupkg",
+        "genericPackageIndex": ""
+      },
+      "licenses": [
+        {
+          "name": "Microsoft .NET Library",
+          "url": "http://microsoft.com/web/webpi/eula/aspnetcomponent_rtw_enu.htm",
+          "riskLevel": "unknown",
+          "referenceType": "Project home page",
+          "reference": "https://www.microsoft.com/net"
+        }
+      ],
+      "vulnerabilities": [],
+      "outdated": true,
+      "matchType": "SHA1",
+      "outdatedModel": {
+        "outdatedLibraryDate": "2015-01-28",
+        "newestVersion": "5.2.61128.0",
+        "newestLibraryDate": "2018-11-28",
+        "versionsInBetween": 1
+      }
+    },
+    {
+      "keyUuid": "2ce1aecf-3b3d-46f0-a026-01119ad3f54f",
+      "keyId": 69037783,
+      "name": "System.Web.Helpers-3.0.30128.0.dll",
+      "groupId": "System.Web.Helpers",
+      "artifactId": "System.Web.Helpers-3.0.30128.0.dll",
+      "version": "3.0.30128.0",
+      "sha1": "b8a6439b7975e7d5744ac8305577020db338b62a",
+      "type": "DOT_NET_AS_GENERIC_RESOURCE",
+      "languages": ".NET",
+      "references": {
+        "url": "https://api.nuget.org/packages/letsencrypt.webapponly.0.8.9.nupkg",
+        "genericPackageIndex": ""
+      },
+      "licenses": [
+        {
+          "name": "Microsoft .NET Library",
+          "url": "http://microsoft.com/web/webpi/eula/aspnetcomponent_rtw_enu.htm",
+          "riskLevel": "unknown",
+          "referenceType": "Project home page",
+          "reference": "https://www.microsoft.com/net"
+        }
+      ],
+      "vulnerabilities": [],
+      "outdated": true,
+      "matchType": "SHA1",
+      "outdatedModel": {
+        "outdatedLibraryDate": "2015-01-28",
+        "newestVersion": "3.0.61128.0",
+        "newestLibraryDate": "2018-11-28",
+        "versionsInBetween": 1
+      }
+    },
+    {
+      "keyUuid": "c1618628-fc4e-4ae3-b672-99243a852463",
+      "keyId": 69037631,
+      "name": "System.Web.Http-5.2.30128.0.dll",
+      "groupId": "Microsoft ASP.NET MVC",
+      "artifactId": "System.Web.Http-5.2.30128.0.dll",
+      "version": "5.2.30128.0",
+      "sha1": "ed3e73ba41910d32618ebbb5e82bf9e74b51b062",
+      "type": "DOT_NET_AS_GENERIC_RESOURCE",
+      "languages": ".NET",
+      "references": {
+        "url": "https://api.nuget.org/packages/sunpoin.core.1.0.3.7.nupkg",
+        "genericPackageIndex": ""
+      },
+      "licenses": [
+        {
+          "name": "Microsoft .NET Library",
+          "url": "http://microsoft.com/web/webpi/eula/aspnetcomponent_rtw_enu.htm",
+          "riskLevel": "unknown",
+          "referenceType": "Project home page",
+          "reference": "https://www.microsoft.com/net"
+        }
+      ],
+      "vulnerabilities": [],
+      "matchType": "SHA1"
+    },
+    {
+      "keyUuid": "f97753af-56ee-4365-a406-3591676a25f9",
+      "keyId": 69039218,
+      "name": "Common.Logging.Core-3.3.1.0.dll",
+      "groupId": "Common Logging Framework",
+      "artifactId": "Common.Logging.Core-3.3.1.0.dll",
+      "version": "3.3.1.0",
+      "sha1": "3480c6662a0e1c0f579ddc0b30d3ff79278fc915",
+      "type": "DOT_NET_AS_GENERIC_RESOURCE",
+      "languages": ".NET",
+      "references": {
+        "url": "https://api.nuget.org/packages/wexflow.3.4.0.nupkg",
+        "genericPackageIndex": ""
+      },
+      "licenses": [
+        {
+          "name": "Apache 2.0",
+          "url": "http://apache.org/licenses/LICENSE-2.0",
+          "profileInfo": {
+            "copyrightRiskScore": "THREE",
+            "patentRiskScore": "ONE",
+            "copyleft": "NO",
+            "linking": "DYNAMIC",
+            "royaltyFree": "CONDITIONAL"
+          },
+          "referenceType": "Project home page",
+          "reference": "http://netcommon.sourceforge.net/license.html"
+        }
+      ],
+      "vulnerabilities": [],
+      "outdated": true,
+      "matchType": "SHA1",
+      "outdatedModel": {
+        "outdatedLibraryDate": "2015-11-14",
+        "newestVersion": "4.0.1.0",
+        "newestLibraryDate": "2018-10-09",
+        "versionsInBetween": 2
+      }
+    },
+    {
+      "keyUuid": "2522ec0a-4a00-4494-9f3e-fb8c23b13fda",
+      "keyId": 72312759,
+      "name": "GraphQL-Parser-3.0.0.dll",
+      "groupId": "GraphQL-Parser",
+      "artifactId": "GraphQL-Parser-3.0.0.dll",
+      "version": "3.0.0",
+      "sha1": "0bf3e15bb3a78cb2a6233a0103ba5f6a58794e7c",
+      "type": "DOT_NET_AS_GENERIC_RESOURCE",
+      "languages": ".NET",
+      "references": {
+        "url": "https://api.nuget.org/packages/tocsoft.graphqlcodegen.msbuild.0.1.0-beta0011.nupkg",
+        "genericPackageIndex": ""
+      },
+      "licenses": [
+        {
+          "name": "Suspected MIT",
+          "riskLevel": "unknown",
+          "referenceType": "Project home page",
+          "reference": "https://github.com/graphql-dotnet/graphql-client"
+        }
+      ],
+      "vulnerabilities": [],
+      "outdated": true,
+      "matchType": "SHA1",
+      "outdatedModel": {
+        "outdatedLibraryDate": "2017-09-09",
+        "newestVersion": "3.1.0",
+        "newestLibraryDate": "2018-09-27",
+        "versionsInBetween": 1
+      }
+    },
+    {
+      "keyUuid": "4ebabfde-b29e-46ff-b765-b0a7be4941e8",
+      "keyId": 74146103,
+      "name": "LightInject.WebApi-1.0.0.4.dll",
+      "groupId": "LightInject.WebApi",
+      "artifactId": "LightInject.WebApi-1.0.0.4.dll",
+      "version": "1.0.0.4",
+      "sha1": "b7c29d8aab0768e034347384b30b6cd5ea22b399",
+      "type": "DOT_NET_AS_GENERIC_RESOURCE",
+      "languages": ".NET",
+      "references": {
+        "url": "https://api.nuget.org/packages/lightinject.webapi.1.0.0.4.nupkg",
+        "genericPackageIndex": ""
+      },
+      "licenses": [
+        {
+          "name": "MIT",
+          "url": "http://www.opensource.org/licenses/MIT",
+          "profileInfo": {
+            "copyrightRiskScore": "THREE",
+            "patentRiskScore": "ONE",
+            "copyleft": "NO",
+            "royaltyFree": "YES"
+          },
+          "referenceType": ".NET",
+          "reference": "http://opensource.org/licenses/MIT"
+        }
+      ],
+      "vulnerabilities": [],
+      "outdated": true,
+      "matchType": "SHA1",
+      "outdatedModel": {
+        "outdatedLibraryDate": "2015-05-22",
+        "newestVersion": "2.0.0",
+        "newestLibraryDate": "2017-01-11",
+        "versionsInBetween": 2
+      }
+    },
+    {
+      "keyUuid": "dc91dd09-63bb-4f48-b6dc-50eb077a944b",
+      "keyId": 69037801,
+      "name": "System.Web.Razor-3.0.30128.0.dll",
+      "groupId": "System.Web.Razor",
+      "artifactId": "System.Web.Razor-3.0.30128.0.dll",
+      "version": "3.0.30128.0",
+      "sha1": "442f8afc64544bf88479ad4f3c82c8a063f3d4a3",
+      "type": "DOT_NET_AS_GENERIC_RESOURCE",
+      "languages": ".NET",
+      "references": {
+        "url": "https://api.nuget.org/packages/letsencrypt.webapponly.0.8.9.nupkg",
+        "genericPackageIndex": ""
+      },
+      "licenses": [
+        {
+          "name": "Microsoft .NET Library",
+          "url": "http://microsoft.com/web/webpi/eula/aspnetcomponent_rtw_enu.htm",
+          "riskLevel": "unknown",
+          "referenceType": "Project home page",
+          "reference": "https://www.microsoft.com/net"
+        }
+      ],
+      "vulnerabilities": [],
+      "outdated": true,
+      "matchType": "SHA1",
+      "outdatedModel": {
+        "outdatedLibraryDate": "2015-01-28",
+        "newestVersion": "3.0.61128.0",
+        "newestLibraryDate": "2018-11-28",
+        "versionsInBetween": 2
+      }
+    },
+    {
+      "keyUuid": "a37cedf9-4f09-4dd4-8157-8041d096e6a0",
+      "keyId": 69038299,
+      "name": "log4net-1.2.13.0.dll",
+      "groupId": "log4net",
+      "artifactId": "log4net-1.2.13.0.dll",
+      "version": "1.2.13.0",
+      "sha1": "4be4f5f9036aae86524085ecb893ae6552fc731d",
+      "type": "DOT_NET_AS_GENERIC_RESOURCE",
+      "languages": ".NET",
+      "references": {
+        "url": "https://api.nuget.org/packages/stocksharp.4.2.68.nupkg",
+        "genericPackageIndex": ""
+      },
+      "licenses": [
+        {
+          "name": "Apache 2.0",
+          "url": "http://apache.org/licenses/LICENSE-2.0",
+          "profileInfo": {
+            "copyrightRiskScore": "THREE",
+            "patentRiskScore": "ONE",
+            "copyleft": "NO",
+            "linking": "DYNAMIC",
+            "royaltyFree": "CONDITIONAL"
+          },
+          "referenceType": "Project home page",
+          "reference": "http://logging.apache.org/log4net/"
+        }
+      ],
+      "vulnerabilities": [],
+      "outdated": true,
+      "matchType": "SHA1",
+      "outdatedModel": {
+        "outdatedLibraryDate": "2013-11-18",
+        "newestVersion": "2.0.9.0",
+        "newestLibraryDate": "2018-09-29",
+        "versionsInBetween": 0
+      }
+    },
+    {
+      "keyUuid": "27b2b2fd-1c25-4c5a-8f5e-3ed9f3bb4892",
+      "keyId": 69037774,
+      "name": "System.Web.Webpages.Deployment-3.0.30128.0.dll",
+      "groupId": "System.Web.Webpages.Deployment",
+      "artifactId": "System.Web.Webpages.Deployment-3.0.30128.0.dll",
+      "version": "3.0.30128.0",
+      "sha1": "0352acf1df3904a82c1d36328abdb5645f51cc77",
+      "type": "DOT_NET_AS_GENERIC_RESOURCE",
+      "languages": ".NET",
+      "references": {
+        "url": "https://api.nuget.org/packages/letsencrypt.webapponly.0.8.9.nupkg",
+        "genericPackageIndex": ""
+      },
+      "licenses": [
+        {
+          "name": "Microsoft .NET Library",
+          "url": "http://microsoft.com/web/webpi/eula/aspnetcomponent_rtw_enu.htm",
+          "riskLevel": "unknown",
+          "referenceType": "Project home page",
+          "reference": "https://www.microsoft.com/net"
+        }
+      ],
+      "vulnerabilities": [],
+      "outdated": true,
+      "matchType": "SHA1",
+      "outdatedModel": {
+        "outdatedLibraryDate": "2015-01-28",
+        "newestVersion": "3.0.61128.0",
+        "newestLibraryDate": "2018-11-28",
+        "versionsInBetween": 2
+      }
+    },
+    {
+      "keyUuid": "151ced56-a29b-4d91-9d7f-83c6252dd273",
+      "keyId": 72729470,
+      "name": "LightInject.Mvc-1.0.0.4.dll",
+      "groupId": "LightInject.Mvc",
+      "artifactId": "LightInject.Mvc-1.0.0.4.dll",
+      "version": "1.0.0.4",
+      "sha1": "22e59c3869f86d7e154e00aaf4780a22cc00a7e8",
+      "type": "DOT_NET_AS_GENERIC_RESOURCE",
+      "languages": ".NET",
+      "references": {
+        "url": "https://api.nuget.org/packages/lightinject.mvc.1.0.0.4.nupkg",
+        "genericPackageIndex": ""
+      },
+      "licenses": [
+        {
+          "name": "MIT",
+          "url": "http://www.opensource.org/licenses/MIT",
+          "profileInfo": {
+            "copyrightRiskScore": "THREE",
+            "patentRiskScore": "ONE",
+            "copyleft": "NO",
+            "royaltyFree": "YES"
+          },
+          "referenceType": ".NET",
+          "reference": "http://opensource.org/licenses/MIT"
+        }
+      ],
+      "vulnerabilities": [],
+      "outdated": true,
+      "matchType": "SHA1",
+      "outdatedModel": {
+        "outdatedLibraryDate": "2014-06-06",
+        "newestVersion": "2.0.0",
+        "newestLibraryDate": "2017-01-11",
+        "versionsInBetween": 2
+      }
+    },
+    {
+      "keyUuid": "79eaa87d-bed9-4e74-8e75-45841163b507",
+      "keyId": 69039217,
+      "name": "Common.Logging-3.3.1.0.dll",
+      "groupId": "Common Logging Framework",
+      "artifactId": "Common.Logging-3.3.1.0.dll",
+      "version": "3.3.1.0",
+      "sha1": "37b979c2a79031aedf8729ecf46ae1ab9e2b513a",
+      "type": "DOT_NET_AS_GENERIC_RESOURCE",
+      "languages": ".NET",
+      "references": {
+        "url": "https://api.nuget.org/packages/wexflow.3.4.0.nupkg",
+        "genericPackageIndex": ""
+      },
+      "licenses": [
+        {
+          "name": "Apache 2.0",
+          "url": "http://apache.org/licenses/LICENSE-2.0",
+          "profileInfo": {
+            "copyrightRiskScore": "THREE",
+            "patentRiskScore": "ONE",
+            "copyleft": "NO",
+            "linking": "DYNAMIC",
+            "royaltyFree": "CONDITIONAL"
+          },
+          "referenceType": "Project home page",
+          "reference": "http://netcommon.sourceforge.net/license.html"
+        }
+      ],
+      "vulnerabilities": [],
+      "outdated": true,
+      "matchType": "SHA1",
+      "outdatedModel": {
+        "outdatedLibraryDate": "2015-11-14",
+        "newestVersion": "4.0.0.0",
+        "newestLibraryDate": "2018-10-09",
+        "versionsInBetween": 2
+      }
+    },
+    {
+      "keyUuid": "a90e00d1-f707-4e01-84e7-21588ee7053a",
+      "keyId": 71398257,
+      "name": "Swashbuckle.Core-1.0.0.0.dll",
+      "groupId": "Swashbuckle.Core",
+      "artifactId": "Swashbuckle.Core-1.0.0.0.dll",
+      "version": "1.0.0.0",
+      "sha1": "a57b25899280bbbf1797864c6dad2abcca11a9ba",
+      "type": "DOT_NET_AS_GENERIC_RESOURCE",
+      "languages": ".NET",
+      "references": {
+        "url": "https://api.nuget.org/packages/swashbuckle.core.5.6.0.nupkg",
+        "genericPackageIndex": ""
+      },
+      "licenses": [
+        {
+          "name": "BSD 3",
+          "url": "http://www.opensource.org/licenses/BSD-3-Clause",
+          "profileInfo": {
+            "copyrightRiskScore": "THREE",
+            "patentRiskScore": "THREE",
+            "copyleft": "NO",
+            "linking": "NON_VIRAL",
+            "royaltyFree": "NO"
+          },
+          "referenceType": ".NET",
+          "reference": "http://opensource.org/licenses/BSD-3-Clause"
+        }
+      ],
+      "vulnerabilities": [],
+      "outdated": true,
+      "matchType": "SHA1",
+      "outdatedModel": {
+        "outdatedLibraryDate": "2014-03-21",
+        "newestVersion": "1.1.2.0",
+        "newestLibraryDate": "2018-04-27",
+        "versionsInBetween": 1
+      }
+    },
+    {
+      "keyUuid": "f7191bfd-4707-4f08-9456-3ae7949acb7d",
+      "keyId": 69037632,
+      "name": "System.Web.Http.WebHost-5.2.30128.0.dll",
+      "groupId": "System.Web.Http.WebHost",
+      "artifactId": "System.Web.Http.WebHost-5.2.30128.0.dll",
+      "version": "5.2.30128.0",
+      "sha1": "60e5e95f4d0b06978636760f3375d6e23b28530b",
+      "type": "DOT_NET_AS_GENERIC_RESOURCE",
+      "languages": ".NET",
+      "references": {
+        "url": "https://api.nuget.org/packages/letsencrypt.webapponly.0.8.9.nupkg",
+        "genericPackageIndex": ""
+      },
+      "licenses": [
+        {
+          "name": "Microsoft .NET Library",
+          "url": "http://microsoft.com/web/webpi/eula/aspnetcomponent_rtw_enu.htm",
+          "riskLevel": "unknown",
+          "referenceType": "Project home page",
+          "reference": "https://www.microsoft.com/net"
+        }
+      ],
+      "vulnerabilities": [],
+      "matchType": "SHA1"
+    },
+    {
+      "keyUuid": "7c88bbfc-c856-4855-8fc0-128cc424bddb",
+      "keyId": 69037398,
+      "name": "System.Net.Http.Formatting-5.2.30128.0.dll",
+      "groupId": "Microsoft ASP.NET MVC",
+      "artifactId": "System.Net.Http.Formatting-5.2.30128.0.dll",
+      "version": "5.2.30128.0",
+      "sha1": "a5616537ca4e4ad5eb0beb48863ae65e9ea91080",
+      "type": "DOT_NET_AS_GENERIC_RESOURCE",
+      "languages": ".NET",
+      "references": {
+        "url": "https://api.nuget.org/packages/hfea.register.eprssdk.1.0.0.4117.nupkg",
+        "genericPackageIndex": ""
+      },
+      "licenses": [
+        {
+          "name": "Suspected Commercial",
+          "riskLevel": "unknown",
+          "referenceType": "Other"
+        }
+      ],
+      "vulnerabilities": [],
+      "matchType": "SHA1"
+    },
+    {
+      "keyUuid": "ded5d47f-f325-46de-95aa-f63f2e012b16",
+      "keyId": 75471739,
+      "name": "LightInject-4.0.1.dll",
+      "groupId": "LightInject",
+      "artifactId": "LightInject-4.0.1.dll",
+      "version": "4.0.1",
+      "sha1": "35c821bfacc2e4fbb407ee84dead3187ddc19100",
+      "type": "DOT_NET_AS_GENERIC_RESOURCE",
+      "languages": ".NET",
+      "references": {
+        "url": "https://api.nuget.org/packages/lightinject.4.0.1.nupkg",
+        "genericPackageIndex": ""
+      },
+      "licenses": [
+        {
+          "name": "MIT",
+          "url": "http://www.opensource.org/licenses/MIT",
+          "profileInfo": {
+            "copyrightRiskScore": "THREE",
+            "patentRiskScore": "ONE",
+            "copyleft": "NO",
+            "royaltyFree": "YES"
+          },
+          "referenceType": ".NET",
+          "reference": "http://opensource.org/licenses/MIT"
+        }
+      ],
+      "vulnerabilities": [],
+      "outdated": true,
+      "matchType": "SHA1",
+      "outdatedModel": {
+        "outdatedLibraryDate": "2015-12-03",
+        "newestVersion": "5.4.0",
+        "newestLibraryDate": "2019-01-25",
+        "versionsInBetween": 6
+      }
+    },
+    {
+      "keyUuid": "58d38dda-d7dd-4d5c-b24a-f56faec8cd83",
+      "keyId": 69037777,
+      "name": "System.Web.Webpages-3.0.30128.0.dll",
+      "groupId": "System.Web.Webpages",
+      "artifactId": "System.Web.Webpages-3.0.30128.0.dll",
+      "version": "3.0.30128.0",
+      "sha1": "d0e928fa2dd0e6ba3de2dca1b9dfe2b45e53f677",
+      "type": "DOT_NET_AS_GENERIC_RESOURCE",
+      "languages": ".NET",
+      "references": {
+        "url": "https://api.nuget.org/packages/letsencrypt.webapponly.0.8.9.nupkg",
+        "genericPackageIndex": ""
+      },
+      "licenses": [
+        {
+          "name": "Microsoft .NET Library",
+          "url": "http://microsoft.com/web/webpi/eula/aspnetcomponent_rtw_enu.htm",
+          "riskLevel": "unknown",
+          "referenceType": "Project home page",
+          "reference": "https://www.microsoft.com/net"
+        }
+      ],
+      "vulnerabilities": [],
+      "outdated": true,
+      "matchType": "SHA1",
+      "outdatedModel": {
+        "outdatedLibraryDate": "2015-01-28",
+        "newestVersion": "3.0.61128.0",
+        "newestLibraryDate": "2018-11-28",
+        "versionsInBetween": 2
+      }
+    },
+    {
+      "keyUuid": "2cbd616b-f152-48fe-99ae-b9ff6e0788c6",
+      "keyId": 69037769,
+      "name": "System.Web.Webpages.Razor-3.0.30128.0.dll",
+      "groupId": "System.Web.Webpages.Razor",
+      "artifactId": "System.Web.Webpages.Razor-3.0.30128.0.dll",
+      "version": "3.0.30128.0",
+      "sha1": "d3e2989d7fc33e853f06e59c9ac195857b060735",
+      "type": "DOT_NET_AS_GENERIC_RESOURCE",
+      "languages": ".NET",
+      "references": {
+        "url": "https://api.nuget.org/packages/letsencrypt.webapponly.0.8.9.nupkg",
+        "genericPackageIndex": ""
+      },
+      "licenses": [
+        {
+          "name": "Microsoft .NET Library",
+          "url": "http://microsoft.com/web/webpi/eula/aspnetcomponent_rtw_enu.htm",
+          "riskLevel": "unknown",
+          "referenceType": "Project home page",
+          "reference": "https://www.microsoft.com/net"
+        }
+      ],
+      "vulnerabilities": [],
+      "outdated": true,
+      "matchType": "SHA1",
+      "outdatedModel": {
+        "outdatedLibraryDate": "2015-01-28",
+        "newestVersion": "3.0.61128.0",
+        "newestLibraryDate": "2018-11-28",
+        "versionsInBetween": 2
+      }
+    }
+  ]
+}

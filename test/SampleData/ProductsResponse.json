@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "productId": 255538,
+      "productName": "Product 1",
+      "productToken": "6fd32fb49b22b7b0fcb6619ed52cc96f5b4c68755d701acb77bfa9feb6aed41f"
+    },
+    {
+      "productId": 14499,
+      "productName": "Product 2",
+      "productToken": "d5fe236107df2e0cda5744be575c26f21413d8c613d90a88672fc8f4bdaa0966"
+    },
+    {
+      "productId": 203332,
+      "productName": "Product 3",
+      "productToken": "e4328bbcff257947246847f102aa8b11148e24bfc3e168f7db7a5b8e60b79319"
+    },
+    {
+      "productId": 42923,
+      "productName": "Product 4",
+      "productToken": "5416f44654da13517edf40ed977371b8573ffecd93e92edf0fc7abcd1e96fdba"
+    }
+  ],
+  "message": "Success"
+}
